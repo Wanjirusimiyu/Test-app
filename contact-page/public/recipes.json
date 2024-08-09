@@ -1,0 +1,248 @@
+{
+  "featuredRecipes": [
+    {
+      "id": 1,
+      "title": "Savory Herb-Infused Chicken",
+      "category": "Dinner",
+      "shortDescription": "Succulent chicken breasts infused with savory herbs.",
+      "time": "45 min",
+      "difficulty": "Medium",
+      "servings": "4 Servings",
+      "image": "https://img.freepik.com/free-photo/top-view-cooked-bell-peppers-with-ground-meat-seasonings-grey-surface-meal-food-meat-vegetable-cooking_140725-74554.jpg?t=st=1723143503~exp=1723147103~hmac=cfc593fe1f154675d7275fb1be25aae51787ea65a6236683235e48a1be36e042&w=740",
+      "ingredients": [
+        "4 chicken breasts",
+        "2 tbsp olive oil",
+        "1 tbsp rosemary",
+        "1 tbsp thyme",
+        "Salt and pepper to taste"
+      ],
+      "equipment": [
+        "Oven",
+        "Baking tray",
+        "Mixing bowl"
+      ],
+      "nutrition": {
+        "calories": "300 kcal",
+        "protein": "25g",
+        "fat": "10g",
+        "carbs": "5g"
+      },
+      "instructions": [
+        "Preheat oven to 375°F (190°C).",
+        "Mix olive oil, rosemary, thyme, salt, and pepper in a bowl.",
+        "Rub the mixture onto the chicken breasts.",
+        "Place the chicken on a baking tray and bake for 35-40 minutes."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Decadent Chocolate Mousse",
+      "category": "Dessert",
+      "shortDescription": "Rich and creamy chocolate mousse with a hint of vanilla.",
+      "time": "25 min",
+      "difficulty": "Easy",
+      "servings": "4 Servings",
+      "image": "https://img.freepik.com/free-photo/top-view-cooked-bell-peppers-with-ground-meat-seasonings-grey-surface-meal-food-meat-vegetable-cooking_140725-74554.jpg?t=st=1723143503~exp=1723147103~hmac=cfc593fe1f154675d7275fb1be25aae51787ea65a6236683235e48a1be36e042&w=740",
+      "ingredients": [
+        "200g dark chocolate",
+        "3 eggs",
+        "50g sugar",
+        "1 tsp vanilla extract",
+        "100ml heavy cream"
+      ],
+      "equipment": [
+        "Mixing bowl",
+        "Whisk",
+        "Refrigerator"
+      ],
+      "nutrition": {
+        "calories": "450 kcal",
+        "protein": "8g",
+        "fat": "35g",
+        "carbs": "30g"
+      },
+      "instructions": [
+        "Melt the chocolate in a heatproof bowl over simmering water.",
+        "Whisk the egg yolks with sugar until pale and thick.",
+        "Mix the melted chocolate into the egg yolk mixture.",
+        "Whisk the egg whites until stiff peaks form and fold into the chocolate mixture.",
+        "Whip the cream and fold into the mixture.",
+        "Chill for at least 2 hours before serving."
+      ]
+    }
+  ],
+  "allRecipes": [
+    {
+      "id": 3,
+      "title": "Lemon Garlic Grilled Chicken",
+      "category": "Lunch",
+      "shortDescription": "Grilled chicken breasts with a zesty lemon and garlic marinade.",
+      "time": "30 min",
+      "difficulty": "Easy",
+      "servings": "4 Servings",
+      "image": "https://img.freepik.com/free-photo/top-view-cooked-bell-peppers-with-ground-meat-seasonings-grey-surface-meal-food-meat-vegetable-cooking_140725-74554.jpg?t=st=1723143503~exp=1723147103~hmac=cfc593fe1f154675d7275fb1be25aae51787ea65a6236683235e48a1be36e042&w=740",
+      "ingredients": [
+        "4 chicken breasts",
+        "2 lemons, juiced",
+        "3 garlic cloves, minced",
+        "2 tbsp olive oil",
+        "Salt and pepper to taste"
+      ],
+      "equipment": [
+        "Grill",
+        "Mixing bowl",
+        "Tongs"
+      ],
+      "nutrition": {
+        "calories": "250 kcal",
+        "protein": "30g",
+        "fat": "10g",
+        "carbs": "5g"
+      },
+      "instructions": [
+        "Preheat the grill to medium-high heat.",
+        "Mix lemon juice, garlic, olive oil, salt, and pepper in a bowl.",
+        "Marinate the chicken in the mixture for 20 minutes.",
+        "Grill the chicken for 6-7 minutes on each side."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Quinoa Veggie Stir-Fry",
+      "category": "Dinner",
+      "shortDescription": "Colorful vegetables stir-fried with quinoa and a tangy sauce.",
+      "time": "20 min",
+      "difficulty": "Easy",
+      "servings": "2 Servings",
+      "image": "https://img.freepik.com/free-photo/top-view-cooked-bell-peppers-with-ground-meat-seasonings-grey-surface-meal-food-meat-vegetable-cooking_140725-74554.jpg?t=st=1723143503~exp=1723147103~hmac=cfc593fe1f154675d7275fb1be25aae51787ea65a6236683235e48a1be36e042&w=740",
+      "ingredients": [
+        "1 cup quinoa, cooked",
+        "1 bell pepper, chopped",
+        "1 zucchini, chopped",
+        "2 carrots, sliced",
+        "2 tbsp soy sauce",
+        "1 tbsp olive oil"
+      ],
+      "equipment": [
+        "Wok",
+        "Spatula",
+        "Mixing bowl"
+      ],
+      "nutrition": {
+        "calories": "200 kcal",
+        "protein": "8g",
+        "fat": "7g",
+        "carbs": "30g"
+      },
+      "instructions": [
+        "Heat olive oil in a wok over medium-high heat.",
+        "Add the vegetables and stir-fry for 5 minutes.",
+        "Mix in the cooked quinoa and soy sauce.",
+        "Stir-fry for another 3-4 minutes and serve hot."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Berry Bliss Smoothie Bowl",
+      "category": "Breakfast",
+      "shortDescription": "A refreshing smoothie bowl topped with fresh berries and granola.",
+      "time": "10 min",
+      "difficulty": "Easy",
+      "servings": "1 Serving",
+      "image": "https://img.freepik.com/free-photo/top-view-cooked-bell-peppers-with-ground-meat-seasonings-grey-surface-meal-food-meat-vegetable-cooking_140725-74554.jpg?t=st=1723143503~exp=1723147103~hmac=cfc593fe1f154675d7275fb1be25aae51787ea65a6236683235e48a1be36e042&w=740",
+      "ingredients": [
+        "1 cup mixed berries",
+        "1 banana",
+        "1/2 cup yogurt",
+        "1/4 cup granola",
+        "1 tbsp honey"
+      ],
+      "equipment": [
+        "Blender",
+        "Bowl",
+        "Spoon"
+      ],
+      "nutrition": {
+        "calories": "350 kcal",
+        "protein": "8g",
+        "fat": "5g",
+        "carbs": "70g"
+      },
+      "instructions": [
+        "Blend the berries, banana, and yogurt until smooth.",
+        "Pour the mixture into a bowl.",
+        "Top with granola and drizzle with honey."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Spaghetti Aglio e Olio",
+      "category": "Dinner",
+      "shortDescription": "Simple yet flavorful spaghetti with garlic and olive oil.",
+      "time": "20 min",
+      "difficulty": "Easy",
+      "servings": "2 Servings",
+      "image": "https://img.freepik.com/free-photo/top-view-cooked-bell-peppers-with-ground-meat-seasonings-grey-surface-meal-food-meat-vegetable-cooking_140725-74554.jpg?t=st=1723143503~exp=1723147103~hmac=cfc593fe1f154675d7275fb1be25aae51787ea65a6236683235e48a1be36e042&w=740",
+      "ingredients": [
+        "200g spaghetti",
+        "4 garlic cloves, sliced",
+        "1/4 cup olive oil",
+        "1/4 tsp red pepper flakes",
+        "Salt and pepper to taste"
+      ],
+      "equipment": [
+        "Pot",
+        "Pan",
+        "Tongs"
+      ],
+      "nutrition": {
+        "calories": "400 kcal",
+        "protein": "10g",
+        "fat": "20g",
+        "carbs": "50g"
+      },
+      "instructions": [
+        "Cook the spaghetti according to package instructions.",
+        "Heat olive oil in a pan over medium heat.",
+        "Add the garlic and red pepper flakes and cook until fragrant.",
+        "Toss the cooked spaghetti in the pan and mix well.",
+        "Season with salt and pepper, then serve hot."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Grilled Veggies with Sauce",
+      "category": "Dinner",
+      "shortDescription": "A medley of grilled vegetables served with a tangy dipping sauce.",
+      "time": "25 min",
+      "difficulty": "Easy",
+      "servings": "4 Servings",
+      "image": "https://img.freepik.com/free-photo/top-view-cooked-bell-peppers-with-ground-meat-seasonings-grey-surface-meal-food-meat-vegetable-cooking_140725-74554.jpg?t=st=1723143503~exp=1723147103~hmac=cfc593fe1f154675d7275fb1be25aae51787ea65a6236683235e48a1be36e042&w=740",
+      "ingredients": [
+        "1 zucchini, sliced",
+        "1 bell pepper, sliced",
+        "1 eggplant, sliced",
+        "2 tbsp olive oil",
+        "Salt and pepper to taste",
+        "1/4 cup balsamic vinegar"
+      ],
+      "equipment": [
+        "Grill",
+        "Mixing bowl",
+        "Tongs"
+      ],
+      "nutrition": {
+        "calories": "150 kcal",
+        "protein": "3g",
+        "fat": "7g",
+        "carbs": "20g"
+      },
+      "instructions": [
+        "Preheat the grill to medium heat.",
+        "Toss the vegetables in olive oil, salt, and pepper.",
+        "Grill the vegetables for 5-7 minutes on each side.",
+        "Drizzle with balsamic vinegar before serving."
+      ]
+    }
+  ]
+}
